@@ -1,4 +1,4 @@
-![funixpnghigh](https://github.com/dan55800todm/funix/assets/168951635/186ce756-edd3-4182-bb75-4fe6d2d6c1cc)
+![funixpnghigh](https://github.com/dan55800todm/funix/blob/master/assets/funixpnghigh.png)
 # Funix
 
 Funix is ​​a lightweight command line interface (CLI) emulator that emulates basic Windows and Linux commands. (but also includes its own) It includes a lot of useful commands and a very simple text-based web browser. It is written in Python using libraries such as: sys, os, subprocess, requests, HTMLParser, platform, ctypes.
